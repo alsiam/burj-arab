@@ -7,6 +7,7 @@ const Book = () => {
         <div style={{textAlign: 'center'}}>
             <h1>Let's book a {bedType} Room.</h1>
             <p>Want a <Link to="/home">different room?</Link> </p>
+            <h2>Welcome To AL Private World</h2>
         </div>
     );
 };
